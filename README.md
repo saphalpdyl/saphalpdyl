@@ -13,5 +13,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cheyatz&show_icons=true&locale=en&layout=compact" alt="cheyatz" />
 <img src="https://github-readme-stats.vercel.app/api?username=cheyatz&show_icons=true" alt="cheyatz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam" width="48%" >
 </p>
 <br>
