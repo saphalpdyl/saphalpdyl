@@ -1,9 +1,9 @@
-# Hi 👋 , I am Cheyatz
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> , I am Cheyatz
 ## Student 📚 and Programmer 🤓
 ### ABOUT ME :
-- I am currently at grade **12**.
-- I am **17** years old.
-- I am learning a lot of stuff
+- Programming since 2019
+- Quite inexperienced with big projects 😅
+- Self learning
 <br>
 
 ## CURRENTLY LEARNING : 
