@@ -3,7 +3,7 @@
 
 ### ABOUT ME :
 - I am currently at grade **12**.
-- I am**17** years old.
+- I am **17** years old.
 - I am learning a lot of stuff
 
 <br>
