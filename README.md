@@ -8,7 +8,6 @@
 
 ## CURRENTLY LEARNING : 
 <br>
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cheyatz&show_icons=true&locale=en&layout=compact&theme=dracula" alt="cheyatz" align="right" />
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -32,8 +31,9 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-## MY GITHUB STATS
+<br>
 
+## MY GITHUB STATS
 
 <img src="https://github-readme-stats.vercel.app/api?username=cheyatz&show_icons=true&theme=gruvbox" alt="cheyatz" width="45%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=cheyatz&theme=gruvbox" width="48%" align="right" ><br>
 <br>
