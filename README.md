@@ -8,7 +8,7 @@
 
 ## CURRENTLY LEARNING : 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cheyatz&show_icons=true&locale=en&langs_count=6&theme=dracula" alt="cheyatz" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cheyatz&show_icons=true&locale=en&langs_count=8&theme=dracula" alt="cheyatz" align="right" />
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
