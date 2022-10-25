@@ -8,7 +8,7 @@
 
 ## CURRENTLY LEARNING : 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cheyatz&show_icons=true&locale=en&langs_count=8&theme=dracula" alt="cheyatz" align="right" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cheyatz&show_icons=true&locale=en&langs_count=8&theme=dracula" alt="cheyatz" align="right" /> -->
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,12 +40,12 @@
 **Using :**
 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<!-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
 
 <br>
 
-## MY GITHUB STATS
+<!-- ## MY GITHUB STATS -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=cheyatz&show_icons=true&theme=gruvbox" alt="cheyatz" width="45%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=cheyatz&theme=gruvbox" width="48%" align="right" ><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=cheyatz&show_icons=true&theme=gruvbox" alt="cheyatz" width="45%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=cheyatz&theme=gruvbox" width="48%" align="right" ><br> -->
 <br>
 <br>
