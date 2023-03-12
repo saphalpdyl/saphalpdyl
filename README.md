@@ -1,9 +1,9 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> , I am Saphal
 ## Student 📚 and Programmer 💻
 ### ABOUT ME :
-- Programming since 2019
-- Quite inexperienced with big projects 😅
-- Self learning
+💻 Programming since **2019**
+
+📔 Self learning
 <br>
 
 ## SKILLS : 
