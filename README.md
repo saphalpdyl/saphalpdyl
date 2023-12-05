@@ -2,9 +2,6 @@
 
 I'm Saphal Poudyal, a 17-year-old self-taught programmer from  Nepal 🇳🇵. I've been passionate about programming since 2019 and I'm always eager to learn and explore new technologies to enhance my skills. Let's connect and collaborate on some awesome projects! 💻🤝
 
-[![Linkedin](https://img.shields.io/badge/saphalpdyl-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saphalpdyl)
-![Gmail](https://img.shields.io/badge/saphalpdyl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 ## My most recent work
 <img src="https://us-central1-github-profile-407109.cloudfunctions.net/get-github-repo-info?dummy" height="150" width="450" />
 
