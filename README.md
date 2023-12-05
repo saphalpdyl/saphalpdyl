@@ -26,6 +26,6 @@ I'm Saphal Poudyal, a 17-year-old self-taught programmer from  Nepal 🇳🇵. I
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## Badger Badges
+##### Badges
 <!--Post man Student Exper badge-->
 <img src="https://github.com/saphalpdyl/saphalpdyl/assets/69297872/dc1ca1cd-d09b-40e9-aa1c-918191f96dfa" width="80" height="80">
