@@ -2,7 +2,7 @@
 
 I'm Saphal Poudyal, a 17-year-old self-taught programmer from  Nepal 🇳🇵. I've been passionate about programming since 2019 and I'm always eager to learn and explore new technologies to enhance my skills. Let's connect and collaborate on some awesome projects! 💻🤝
 
-![](https://us-central1-github-profile-407109.cloudfunctions.net/get-github-repo-info)
+![](https://us-central1-github-profile-407109.cloudfunctions.net/get-github-repo-info?)
 
 ## Badger Badges
 <!--Post man Student Exper badge-->
