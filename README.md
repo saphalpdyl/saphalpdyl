@@ -5,6 +5,8 @@ I'm Saphal Poudyal, a 17-year-old self-taught programmer from  Nepal 🇳🇵. I
 ## My most recent work
 <img src="https://us-central1-github-profile-407109.cloudfunctions.net/recent_repo_card" height="150" width="450" />
 
+*You can find the API and code for this custom card <a href="https://github.com/saphalpdyl/recent_repo" target="_blank">here</a>.*
+
 ## Skills
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
