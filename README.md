@@ -3,8 +3,8 @@
 I'm Saphal Poudyal, a 17-year-old self-taught programmer from  Nepal 🇳🇵. I've been passionate about programming since 2019 and I'm always eager to learn and explore new technologies to enhance my skills. Let's connect and collaborate on some awesome projects! 💻🤝
 
 ## My recents works
-<img src="https://us-central1-github-profile-407109.cloudfunctions.net/recent_repo_card?pos=0" height="150" width="450" />
-<img src="https://us-central1-github-profile-407109.cloudfunctions.net/recent_repo_card?pos=1" height="150" width="450" />
+<img src="https://recent-repo-2.vercel.app/api/repo?pos=0" height="150" width="450" />
+<img src="https://recent-repo-2.vercel.app/api/repo?pos=1" height="150" width="450" />
 
 *You can find the API and code for this custom card <a href="https://github.com/saphalpdyl/recent_repo" target="_blank">here</a>.*
 
