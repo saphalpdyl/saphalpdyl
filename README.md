@@ -6,7 +6,7 @@ I'm Saphal Poudyal, a 17-year-old self-taught programmer from  Nepal 🇳🇵. I
 <img src="https://recent-repo-2.vercel.app/api/repo?pos=0" height="150" width="450" />
 <img src="https://recent-repo-2.vercel.app/api/repo?pos=1" height="150" width="450" />
 
-*You can find the API and code for this custom card <a href="https://github.com/saphalpdyl/recent_repo" target="_blank">here</a>.*
+*You can find the API and code for this custom card <a href="https://github.com/saphalpdyl/Recent-repo-2" target="_blank">here</a>.*
 
 ## Skills
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
