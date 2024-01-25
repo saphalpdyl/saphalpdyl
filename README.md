@@ -4,7 +4,7 @@ I'm Saphal Poudyal, a 17-year-old self-taught programmer from  Nepal 🇳🇵. I
 
 ## My recents works
 <img src="https://recent-repo-2.vercel.app/api/repo?pos=0" height="150" width="450" />
-<img src="https://recent-repo-2.vercel.app/api/repo?pos=1" height="150" width="450" />
+<img src="https://recent-repo-2.vercel.app/api/repo?pos=1&backgroundColor=0000&borderColor=596679&minimalism=true" height="150" width="450" />
 
 *You can find the API and code for this custom card <a href="https://github.com/saphalpdyl/Recent-repo-2" target="_blank">here</a>.*
 
