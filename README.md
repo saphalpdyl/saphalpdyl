@@ -12,7 +12,7 @@
 *You can find the API and code for this custom card <a href="https://github.com/saphalpdyl/Recent-repo-2" target="_blank">here</a>.*
 
 ## I work with
-[![Skills](https://skillicons.dev/icons?i=js,react,cs,net,go,unity,express,mongodb,django,postgresql,flutter)]()
+[![Skills](https://skillicons.dev/icons?i=js,react,cs,net,go,unity,django,flutter)]()
 
 ## I code on
 [![Skills](https://skillicons.dev/icons?i=neovim,vscode,visualstudio,androidstudio)]()
