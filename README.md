@@ -6,7 +6,7 @@ Full-stack and infrastructure engineer with experience shipping complex systems 
 
 ---
 
-## 🌟 About Me
+## About Me
 - Founding Engineer @ **MagnoliaEd** — designed resilient AWS infra, modular FastAPI backend, and multi-frontend Turborepo apps.  
 - Former ML/.NET Intern @ **Prediction3D** — built hybrid OAuth2 authentication, Stripe billing integrations, and LLM multi-agent orchestration.  
 - Undergraduate Research Assistant @ **USM** — working on Unity-based AR/VR training environments and semantic segmentation with aerial imagery.  
@@ -14,7 +14,7 @@ Full-stack and infrastructure engineer with experience shipping complex systems 
 
 ---
 
-## 🔥 Recent Public Work
+## Recent Public Work
 <p>
   <img src="https://recent-repo-2.vercel.app/api/repo?username=saphalpdyl&pos=0" height="150" width="450" />
   <img src="https://recent-repo-2.vercel.app/api/repo?username=saphalpdyl&pos=1&backgroundColor=0d1117&borderColor=596679&minimalism=true" height="150" width="450" />
@@ -24,7 +24,7 @@ Full-stack and infrastructure engineer with experience shipping complex systems 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 **Languages & Frameworks**  
 [![Skills](https://skillicons.dev/icons?i=js,react,cs,dotnet,go,python,fastapi,django,unity,nextjs,flutter)]()  
 
@@ -36,16 +36,10 @@ Full-stack and infrastructure engineer with experience shipping complex systems 
 
 ---
 
-## 📌 Selected Projects
+## Selected Projects
 - **[deepseek-go](https://github.com/cohesion-org/deepseek-go)** — Go client for Deepseek LLM (⭐ ~300).  
 - **[melo spaces](https://github.com/saphalpdyl/melo)** — Interactive virtual coworking space with React + WebRTC + Three.js.  
 - **[cohesion](https://github.com/saphalpdyl/cohesion)** — AI-powered flow-based SQL assistant (natural language → SQL, docs, mock data, ORM code).  
-
----
-
-## 🎖️ Badges
-<img src="https://github.com/saphalpdyl/saphalpdyl/assets/69297872/dc1ca1cd-d09b-40e9-aa1c-918191f96dfa" width="80" height="80">
-
 ---
 
 🌱 Currently building **AI tutoring platforms and OSS tools**.  
