@@ -1,9 +1,8 @@
 <h3 align="center">Hey 👋 I'm Saphal Poudyal</h3>
 
-💻 CS sophomore & founding engineer from Nepal 🇳🇵  
-🚀 Building AI-driven and cloud-native systems at scale  
-⚡ Experienced across backend, frontend, and infrastructure — shipping real products fast  
-📚 Always learning, always experimenting
+Founding engineer and CS sophomore from Nepal.  
+Focused on AI-driven and cloud-native platforms.  
+Full-stack and infrastructure engineer with experience shipping complex systems into production.
 
 ---
 
