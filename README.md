@@ -1,7 +1,7 @@
-Systems & Infrastructure Engineer and CS sophomore.  
-Focused on AI-driven and cloud-native platforms.  
+Systems & Infrastructure Engineer. 
+Focused on networking and cloud-native platforms.  
 Full-stack and infrastructure engineer with experience shipping complex systems into production.
-Learning networking.
+
 
 ---
 
