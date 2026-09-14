@@ -1,11 +1,3 @@
-Systems & Infrastructure Engineer focused on networking and cloud-native platforms.  
+Network systems. Currently building [Maeto](https://gitlab.com/saphalpdyl/maeto) — an SRv6 SD-WAN.
 
----
-
-## Recent Public Work
-<p>
-  <img src="https://recent-repo-2.vercel.app/api/repo?username=saphalpdyl&pos=0" height="150" width="450" />
-  <img src="https://recent-repo-2.vercel.app/api/repo?username=saphalpdyl&pos=1&backgroundColor=0d1117&borderColor=596679&minimalism=true" height="150" width="450" />
-</p>
-
-*Custom recent-repo card 👉 [View on GitHub](https://github.com/saphalpdyl/Recent-repo-2)*  
+[/me](https://saphal.me) <br>&emsp; [mail/](mailto:hi+githubreadme@saphal.me) <br>&emsp; [linkedin/](https://www.linkedin.com/in/saphalpdyl/) <br> [/blogs](https://blogs.saphal.me) <br> [/bytes](https://blogs.saphal.me/tags/bytes/) <br>
